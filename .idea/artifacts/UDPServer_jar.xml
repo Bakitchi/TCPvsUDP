@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UDPServer:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="TCPvsUDP.jar">
+      <element id="module-output" name="TCPvsUDP" />
+    </root>
+  </artifact>
+</component>
